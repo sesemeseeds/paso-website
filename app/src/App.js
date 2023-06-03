@@ -1,6 +1,6 @@
 function App() {
   return (
-    <h1>Hello world! and Fart.</h1>
+    <h1>weenie</h1>
   );
 }
 
