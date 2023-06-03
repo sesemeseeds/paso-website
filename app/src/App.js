@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <h1 className="text-3xl font-bold underline">
-          Hello world! and Nathaniel Andrew Valdez.
+          Hello world! and Fart.
         </h1>
       </header>
     </div>
